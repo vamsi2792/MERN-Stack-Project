@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Gojo Satoru Statue",
+    "description": "This intricately designed statue features Gojo Satoru, one of the most powerful characters from Jujutsu Kaisen. This statue showcases exceptional detail and craftsmanship, perfect for display on your shelf or desk.",
+    "price": 19.99,
+    "image": "https://ae01.alicdn.com/kf/Sd64614a5ac9c45b390b6d77edd1a91c9h/Jujutsu-Kaisen-25cm-Sitting-Gojo-Satoru-Figure-PVC-Dolls-New-Arrival-Figurine.jpg",
+    "stock":true
+  },
+  {
+    "id": 2,
+    "name": "Luffy Action Figure",
+    "description": "A highly detailed action figure of Monkey D. Luffy in his Gear five mode, perfect for collectors.",
+    "price": 87.99,
+    "image": "https://m.media-amazon.com/images/I/71OlASS6SqL.jpg",
+    "stock":true
+  },
+  {
+    "id": 3,
+    "name": "Zoro Figure",
+    "description": "Roronoa Zoro is a skilled swordsman from the anime One Piece, known for his ambition to become the world's greatest swordsman. This collectible figure captures his fierce spirit and iconic pose.",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61nVkA8p7VL._AC_UF894,1000_QL80_.jpg",
+    "stock":false
+  },
+  {
+    "id": 4,
+    "name": "Naruto Statue",
+    "description": "Celebrate the journey of Naruto with this stunning Naruto Uzumaki statue. Featuring vibrant colors and a dynamic pose, it's a must-have for any Naruto fan.",
+    "price": 55.99,
+    "image": "https://image.made-in-china.com/2f0j00wcakUBeGglqE/Custom-Japan-Anime-Figure-Naruto-Figure-Fiberglass-Uzumaki-Statue.webp",
+    "stock":false
+  },
+  {
+    "id": 5,
+    "name": "Kokushibo",
+    "description": "Featuring Kokushibo the Upper Rank One of the Twelve Kizuki from Demon Slayer.",
+    "price": 75.99,
+    "image": "https://i.ebayimg.com/images/g/oeEAAOSwI7djRNnI/s-l1200.jpg",
+    "stock":false
+  },
+  {
+    "id": 6,
+    "name": "Tanjiro Kamado Statue",
+    "description": "Tanjiro Kamado is the main protagonist of Demon Slayer: Kimetsu no Yaiba. He is a kind-hearted and determined demon slayer who seeks to avenge his family and cure his sister Nezuko, who has been turned into a demon. He possesses exceptional swordsmanship skills and is known for his Water Breathing techniques.",
+    "price": 78.99,
+    "image": "https://store.aniplexusa.com/demonslayer/tanjiro-kamado-total-concentration-paint-ver/images/1.jpg",
+    "stock":true
+  },
+  {
+    "id": 7,
+    "name": "Naruto Shippuden T-shirt",
+    "description": "This Naruto Shippuden graphic T-shirt features a vibrant print of Naruto in action. Perfect for everyday wear or conventions, made with soft fabric for all-day comfort.",
+    "price": 27.99,
+    "image": "https://mycollectorsoutpost.com/cdn/shop/products/Naruto-Shippuden-Kunai-Chakra-Graphic-T-Shirt-1_1445x.jpg?v=1726846364",
+    "stock":true
+  },
+  {
+    "id": 8,
+    "name": "One Piece T-Shirt",
+    "description": "Celebrate the Straw Hat Crew with this One Piece T-shirt! The bold design showcases your favorite characters and is crafted from high-quality materials.",
+    "price": 31.99,
+    "image": "https://onepiece.b-cdn.net/wp-content/uploads/2023/11/tee.jpg",
+    "stock":true
+  },
+  {
+    "id": 9,
+    "name": "AoT T-Shirt",
+    "description": "Join the Survey Corps with this stylish Attack on Titan T-shirt! Featuring the Survey Corps emblem, it's a must-have for any fan of the series.",
+    "price": 24.99,
+    "image": "https://m.media-amazon.com/images/I/51U107MN0rL._AC_.jpg",
+    "stock":true
+  },
+  {
+    "id": 10,
+    "name": "My Hero Academia T-Shirt",
+    "description": "This My Hero Academia T-shirt features a striking design of your favorite heroes in action. Made from breathable fabric, it's perfect for casual outings or anime events.",
+    "price": 19.99,
+    "image": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/080621%20(28).jpg",
+    "stock":false
+  },
+  {
+    "id": 11,
+    "name": "Dragon Ball Z T-Shirt",
+    "description": "Show off your love for Dragon Ball Z with this stylish T-shirt featuring the iconic DBZ logo. Made from 100% cotton for a comfortable fit.",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/81jLW-oHdjL._AC_UY1000_.jpg",
+    "stock":false
+  },
+  {
+    "id": 12,
+    "name": "Demon Slayer Key Chain",
+    "description": "Carry your favorite Demon Slayer characters wherever you go with this beautifully crafted keychain featuring Zenitsu and Nezuko. Made from durable materials, this keychain showcases the dynamic duo in a cute and detailed design.",
+    "price": 23.99,
+    "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g22/M01/7B/13/rBVaE2JhJrmARB7PAAB8VjX0jOg438.jpg",
+    "stock":true
+  },
+  {
+    "id": 13,
+    "name": "Gojo Key Chain",
+    "description": "Keep the strongest sorcerer close at hand with this stylish Gojo Satoru keychain. Featuring the iconic character from Jujutsu Kaisen, this keychain is perfect for fans who want to showcase their love for Gojo's charm and strength.",
+    "price": 18.99,
+    "image": "https://www.dhresource.com/webp/m/0x0/f2/albu/g19/M01/50/A3/rBNaN2GHlAuAbRmXAAG1swQjQEw703.jpg",
+    "stock":true
+  },
+  {
+    "id": 14,
+    "name": "Zoro Key Chain",
+    "description": "Carry the spirit of the legendary swordsman with this Zoro keychain, inspired by One Piece. Featuring Roronoa Zoro, known for his unparalleled swordsmanship and loyalty, this keychain is perfect for fans who admire his strength and determination. Made from durable materials, it's a stylish and practical accessory to enhance your keys, bags, or collection.",
+    "price": 16.99,
+    "image": "https://m.media-amazon.com/images/I/71XchGD1V7S.jpg",
+    "stock":true
+  },
+  {
+    "id": 15,
+    "name": "Hinata Key Chain",
+    "description": "Celebrate your love for Haikyuu!! with this vibrant Hinata Shoyo keychain. Featuring the energetic and determined volleyball star, this keychain is perfect for fans who admire his boundless enthusiasm and underdog spirit. Made from durable material, it's a great way to keep Hinata's passion for the game with you wherever you go, whether on your keys, bag, or collection.",
+    "price": 20.99,
+    "image": "https://cuchiwaii.com/cdn/shop/products/IMG_20210503_184850.jpg?v=1620216190",
+    "stock":true
+  }
+]
